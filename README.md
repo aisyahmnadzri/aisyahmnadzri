@@ -1,18 +1,12 @@
-## Hi, I'm Aisyah! 👋
-
+## Hi, I'm Aisyah! 👋 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aisyahnadzri)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aisyahmnadzri@gmail.com)
 ### About Me
 - 🎓 Fresh Graduate in **Computer Science (Bioinformatics)**, Universiti Teknologi Malaysia (Convocation in Nov 2025)  
 - 🐧 Currently exploring a **1 Week, 1 Project** personal challenge  
 - 👩🏻‍💻 Passionate about **Data Science, AI, and Software Engineering**  
-
----
-
 ### Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aisyahnadzri)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aisyahmnadzri@gmail.com)
-
----
-
 ### Tech Stack
 <details>
   <summary>Programming & Scripting</summary>
@@ -79,9 +73,6 @@
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?logo=figma&logoColor=white)
 
 </details>
-
----
-
 ### My GitHub Stats
 ![](https://nirzak-streak-stats.vercel.app/?user=aisyahmnadzri&theme=default_repocard&hide_border=false)  
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aisyahmnadzri&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
