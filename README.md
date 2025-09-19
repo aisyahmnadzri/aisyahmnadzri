@@ -8,8 +8,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=aisyahmnadzri&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aisyahmnadzri&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=false&layout=compact) <br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=aisyahmnadzri&theme=default_repocard&hide_border=false)
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=aisyahmnadzri&limit=5&theme=default_repocard&combine_all_yearly_contributions=true)
 ---
