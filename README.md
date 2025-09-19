@@ -1,10 +1,10 @@
 ## Hi, I'm Aisyah! 👋 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aisyahnadzri)[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aisyahmnadzri@gmail.com)
 ### About Me
-- 🎓 Fresh Graduate in **Computer Science (Bioinformatics)**, Universiti Teknologi Malaysia (Convocation in Nov 2025)  
-- 🐧 Currently exploring a **1 Week, 1 Project** personal challenge  
-- 👩🏻‍💻 Passionate about **Data Science, AI, and Software Engineering**  
-### My Current Tech Stack
+- 👩🏻‍💻 Fresh Graduate (Convocation in November 2025!)  
+- 🎓 Studied Computer Science (Bioinformatics) at Universiti Teknologi Malaysia (UTM)  
+- 🐧 Currently starting a personal challenge **1 Week, 1 Project** to consistently learn and build
 <details>
+### My Current Tech Stack
   <summary>Programming Languages</summary>
   
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
