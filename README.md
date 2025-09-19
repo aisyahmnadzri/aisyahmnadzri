@@ -3,9 +3,9 @@
 - 🎓 Fresh Graduate in **Computer Science (Bioinformatics)**, Universiti Teknologi Malaysia (Convocation in Nov 2025)  
 - 🐧 Currently exploring a **1 Week, 1 Project** personal challenge  
 - 👩🏻‍💻 Passionate about **Data Science, AI, and Software Engineering**  
-### Tech Stack
+### My Current Tech Stack
 <details>
-  <summary>Programming & Scripting</summary>
+  <summary>Programming Languages</summary>
   
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?logo=openjdk&logoColor=white)
@@ -31,7 +31,7 @@
 </details>
 
 <details>
-  <summary>Data Science & ML</summary>
+  <summary>ML/DL/AI</summary>
   
   ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white)
   ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?logo=numpy&logoColor=white)
@@ -54,6 +54,7 @@
   ![Firebase](https://img.shields.io/badge/firebase-a08021?logo=firebase&logoColor=ffcd34)
   ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white)
   ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?logo=microsoftazure&logoColor=white)
+  ![Qdrant](https://img.shields.io/badge/Qdrant-%23FF4F00.svg?logo=qdrant&logoColor=white)
 
 </details>
 
@@ -69,6 +70,7 @@
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?logo=figma&logoColor=white)
 
 </details>
+
 ### My GitHub Stats
 ![](https://nirzak-streak-stats.vercel.app/?user=aisyahmnadzri&theme=default_repocard&hide_border=false)  
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aisyahmnadzri&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
