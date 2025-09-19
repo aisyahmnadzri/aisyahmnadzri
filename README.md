@@ -3,8 +3,8 @@
 - 👩🏻‍💻 Fresh Graduate (Convocation in November 2025!)  
 - 🎓 Studied Computer Science (Bioinformatics) at Universiti Teknologi Malaysia (UTM)  
 - 🐧 Currently starting a personal challenge **1 Week, 1 Project** to consistently learn and build
-<details>
 ### My Current Tech Stack
+<details>
   <summary>Programming Languages</summary>
   
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
