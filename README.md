@@ -2,7 +2,7 @@
 ### About Me
 - 👩🏻‍💻 Fresh Graduate (October 2025)  
 - 🎓 Studied Computer Science (Bioinformatics) at Universiti Teknologi Malaysia (UTM)  
-- 🐧 Currently starting a personal challenge **1 Week, 1 Project** to consistently learn and build
+- 🐧 Currently starting a personal challenge **1 Week, 1 Challenge** to consistently learn and build
 ### My Current Tech Stack
 <details>
   <summary>Programming Languages</summary>
