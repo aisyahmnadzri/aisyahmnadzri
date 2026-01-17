@@ -74,5 +74,5 @@
 ### My GitHub Stats
 | My Contributions | My Top Languages |
 | ------------- | ------------- |
-| ![](https://nirzak-streak-stats.vercel.app/?user=aisyahmnadzri&theme=default_repocard&hide_border=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aisyahmnadzri&layout=donut) |
+| ![](https://nirzak-streak-stats.vercel.app/?user=aisyahmnadzri&theme=default_repocard&hide_border=false) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/username=aisyahmnadzri&layout=donut&theme=tokyonight)|
 
