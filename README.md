@@ -1,39 +1,65 @@
-<h1 align="center">Hi, I'm Aisyah 👋</h1>
+<div align="center">
 
-<p align="center">
-  Computer Science (Bioinformatics) graduate building at the intersection of machine learning, biology and software.
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F9D8A,100:6C63FF&height=180&section=header&text=Hi,%20I'm%20Aisyah&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Bioinformatics%20%C3%97%20Machine%20Learning%20%C3%97%20Software&descAlignY=58&descSize=16" alt="Header banner" />
 
-<p align="center">
-  <a href="https://linkedin.com/in/aisyahnadzri"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:aisyahmnadzri@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
-</p>
+<a href="https://github.com/aisyahmnadzri"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=0F9D8A&center=true&vCenter=true&width=560&lines=Teaching+neural+networks+to+read+peptides+%F0%9F%A7%AC;Turning+messy+data+into+useful+models+%F0%9F%93%8A;1+Week%2C+1+Challenge%3A+always+building+%F0%9F%9A%80" alt="Typing animation" /></a>
+
+<br/>
+
+<a href="https://linkedin.com/in/aisyahnadzri"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:aisyahmnadzri@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+
+</div>
 
 ---
 
-## 👩🏻‍💻 About Me
+## 🧭 Who I Am
 
-- 🎓 Graduated October 2025 with a degree in Computer Science (Bioinformatics) from **Universiti Teknologi Malaysia (UTM)**
-- 🧬 Interested in applying ML and deep learning to biological problems, such as peptide classification and medical diagnosis
-- 🐧 Running a personal challenge, **1 Week, 1 Challenge**, to keep learning and shipping something new
-- 💬 Happy to chat about bioinformatics, ML and web development. Reach out via LinkedIn or email.
+> I'm a **Computer Science (Bioinformatics)** graduate from **Universiti Teknologi Malaysia**, class of October 2025. I like problems where code meets biology: finding signal in peptide sequences, clinical biomarkers and everything in between.
 
-## 🚀 Featured Projects
+```python
+class Aisyah:
+    degree   = "BSc Computer Science (Bioinformatics), UTM"
+    focus    = ["Deep learning for biology", "Data analysis", "Full-stack web"]
+    challenge = "1 Week, 1 Challenge"   # learn something, build something, repeat
+    status   = "Open to collaborating and chatting about bio + AI"
 
-| Project | What it does | Tech |
+    def say_hi(self):
+        return "Let's build something! 👋"
+```
+
+## 🏆 Projects That Show What I Do
+
+### 🧬 [CAPTAIN](https://github.com/aisyahmnadzri/CAPTAIN)
+Deep learning for **early-stage drug discovery**. It classifies microbial peptides as antimicrobial or not, and predicts the toxicity of designed antimicrobial peptides, using the GRAMPA dataset.
+
+| Model | Task | Result |
 | --- | --- | --- |
-| [**CAPTAIN**](https://github.com/aisyahmnadzri/CAPTAIN) | Classifies microbial peptides and predicts the toxicity of antimicrobial peptides to support drug discovery | Python, Jupyter |
-| [**OvagnosisNet**](https://github.com/aisyahmnadzri/OvagnosisNet) | Ovarian cancer classifier | Python, Jupyter |
-| [**my-kanban-board**](https://github.com/aisyahmnadzri/my-kanban-board) | Kanban board web app | TypeScript |
-| [**Industrial-Training-System**](https://github.com/aisyahmnadzri/Industrial-Training-System) | SQL database logical design covering DDL, DML and data queries | SQL |
-| [**Monkey-and-Fruits-Game**](https://github.com/aisyahmnadzri/Monkey-and-Fruits-Game) | Fruit-catching game built with object-oriented C++ | C++ |
+| Bi-LSTM | Antimicrobial vs. non-antimicrobial | **71%** accuracy |
+| Multimodal FCNN-RNN (one-hot sequences + physicochemical features) | Toxicity prediction | **90%** accuracy |
 
-More on my [repositories page](https://github.com/aisyahmnadzri?tab=repositories).
+`Python` · `TensorFlow/Keras` · `NumPy` · `Pandas` · `Matplotlib`
 
-## 🛠️ Tech Stack
+### 🩺 [OvagnosisNet](https://github.com/aisyahmnadzri/OvagnosisNet)
+A deep neural network that classifies **ovarian cancer** as malignant or benign from **49 clinical and blood-based biomarkers** across **349 patients**, benchmarked against logistic regression, SVM and random forest.
 
-<details>
-  <summary><b>Programming Languages</b></summary>
+`TensorFlow/Keras` · `scikit-learn` · `Seaborn` · `Jupyter / Colab`
+
+### 🛠️ More to explore
+
+| | Project | What it is |
+| :---: | --- | --- |
+| 📋 | [my-kanban-board](https://github.com/aisyahmnadzri/my-kanban-board) | A TypeScript kanban board for organizing tasks |
+| 🗄️ | [Industrial-Training-System](https://github.com/aisyahmnadzri/Industrial-Training-System) | SQL logical database design with DDL, DML and queries |
+| 🐒 | [Monkey-and-Fruits-Game](https://github.com/aisyahmnadzri/Monkey-and-Fruits-Game) | A fruit-catching game built with object-oriented C++ |
+
+<sub>Browse all my work on my <a href="https://github.com/aisyahmnadzri?tab=repositories">repositories page</a>.</sub>
+
+## 🧰 Toolbox
+
+<details open>
+  <summary><b>💻 Languages</b></summary>
+  <br/>
 
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?logo=openjdk&logoColor=white)
@@ -41,12 +67,12 @@ More on my [repositories page](https://github.com/aisyahmnadzri?tab=repositories
   ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?logo=php&logoColor=white)
   ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
   ![R](https://img.shields.io/badge/r-%23276DC3.svg?logo=r&logoColor=white)
-  ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?logo=markdown&logoColor=white)
 
 </details>
 
 <details>
-  <summary><b>Frameworks & Libraries</b></summary>
+  <summary><b>🌐 Frameworks & Libraries</b></summary>
+  <br/>
 
   ![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi)
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white)
@@ -59,7 +85,8 @@ More on my [repositories page](https://github.com/aisyahmnadzri?tab=repositories
 </details>
 
 <details>
-  <summary><b>ML / DL / AI</b></summary>
+  <summary><b>🧠 ML / DL / AI</b></summary>
+  <br/>
 
   ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white)
   ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?logo=numpy&logoColor=white)
@@ -74,7 +101,8 @@ More on my [repositories page](https://github.com/aisyahmnadzri?tab=repositories
 </details>
 
 <details>
-  <summary><b>Databases & Cloud</b></summary>
+  <summary><b>☁️ Databases & Cloud</b></summary>
+  <br/>
 
   ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?logo=mysql&logoColor=white)
   ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?logo=sqlite&logoColor=white)
@@ -87,7 +115,8 @@ More on my [repositories page](https://github.com/aisyahmnadzri?tab=repositories
 </details>
 
 <details>
-  <summary><b>Tools</b></summary>
+  <summary><b>🔧 Tools</b></summary>
+  <br/>
 
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)
   ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?logo=gitlab&logoColor=white)
@@ -99,8 +128,18 @@ More on my [repositories page](https://github.com/aisyahmnadzri?tab=repositories
 
 </details>
 
-## 📊 GitHub Stats
+## 📈 Activity
 
-| My Contributions | My Top Languages |
+<div align="center">
+
+| 🔥 Contributions | 💬 Top Languages |
 | :---: | :---: |
-| ![Contributions](https://nirzak-streak-stats.vercel.app/?user=aisyahmnadzri&theme=default_repocard&hide_border=false) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aisyahmnadzri&layout=donut) |
+| <img src="https://nirzak-streak-stats.vercel.app/?user=aisyahmnadzri&theme=default_repocard&hide_border=false" alt="Contributions" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aisyahmnadzri&layout=donut" alt="Top languages" /> |
+
+</div>
+
+## 🤝 Let's Connect
+
+Got an idea, a dataset, or a bioinformatics problem? I'd love to hear about it. Message me on [LinkedIn](https://linkedin.com/in/aisyahnadzri) or at [aisyahmnadzri@gmail.com](mailto:aisyahmnadzri@gmail.com).
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:0F9D8A&height=100&section=footer" alt="Footer wave" />
