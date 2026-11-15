@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F9D8A,100:6C63FF&height=180&section=header&text=Hi,%20I'm%20Aisyah&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Data%20Scientist%20%C3%97%20Bioinformatics%20%C3%97%20AI&descAlignY=58&descSize=16" alt="Header banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:171115,55:6E061B,100:7B0E25&height=180&section=header&text=Hi,%20I'm%20Aisyah&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Bioinformatics%20Engineer%20%C2%B7%20Solution%20Architect%20%C2%B7%20Cloud%20Engineer%20%C2%B7%20AI%20Engineer%20%C2%B7%20Data%20Scientist%20%C2%B7%20Data%20Engineer%20%C2%B7%20Data%20Analyst%20%C2%B7%20Backend%20Engineer%20%C2%B7%20Full%20Stack%20Developer&descAlignY=60&descSize=15" alt="Header banner" />
 
-<a href="https://github.com/aisyahmnadzri"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=0F9D8A&center=true&vCenter=true&width=620&lines=Building+data+pipelines+that+don't+lose+data+%F0%9F%9B%A0%EF%B8%8F;Teaching+neural+networks+to+read+peptides+%F0%9F%A7%AC;Turning+messy+data+into+live+dashboards+%F0%9F%93%8A;1+Week%2C+1+Challenge%3A+always+building+%F0%9F%9A%80" alt="Typing animation" /></a>
+<a href="https://github.com/aisyahmnadzri"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=B29388&center=true&vCenter=true&width=620&lines=Building+data+pipelines+that+don't+lose+data+%F0%9F%9B%A0%EF%B8%8F;Teaching+neural+networks+to+read+peptides+%F0%9F%A7%AC;Turning+messy+data+into+live+dashboards+%F0%9F%93%8A;1+Week%2C+1+Challenge%3A+always+building+%F0%9F%9A%80" alt="Typing animation" /></a>
 
 <br/>
 
-<a href="https://linkedin.com/in/aisyahnadzri"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:aisyahmnadzri@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://linkedin.com/in/aisyahnadzri"><img src="https://img.shields.io/badge/LinkedIn-7B0E25.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:aisyahmnadzri@gmail.com"><img src="https://img.shields.io/badge/Email-171115?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
 </div>
 
@@ -38,9 +38,9 @@ flowchart LR
     D --> E["<b>AIRBUS-MYSA</b><br/>Full Stack Data<br/>Scientist Protégé<br/><i>Feb 2026 - Jun 2026</i>"]
     E --> F["<b>Pepper Labs-<br/>Amazon Web Services (AWS)</b><br/>AI Engineer<br/><i>Jun 2026 - Now</i>"]
 
-    classDef edu fill:#E6F7F4,stroke:#0F9D8A,stroke-width:2px,color:#0B3D36;
-    classDef work fill:#EEEDFF,stroke:#6C63FF,stroke-width:2px,color:#241F6B;
-    classDef now fill:#6C63FF,stroke:#3D36B8,stroke-width:3px,color:#FFFFFF;
+    classDef edu fill:#F3E9E6,stroke:#B29388,stroke-width:2px,color:#320209;
+    classDef work fill:#F7E4E8,stroke:#7B0E25,stroke-width:2px,color:#320209;
+    classDef now fill:#7B0E25,stroke:#320209,stroke-width:3px,color:#FFFFFF;
     class A,B edu;
     class C,D,E work;
     class F now;
@@ -141,7 +141,7 @@ Full Stack Developer  ████████████████░░░�
 
 | 🔥 Contributions | 💬 Top Languages |
 | :---: | :---: |
-| <img src="https://nirzak-streak-stats.vercel.app/?user=aisyahmnadzri&theme=default_repocard&hide_border=false" alt="Contributions" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aisyahmnadzri&layout=donut" alt="Top languages" /> |
+| <img src="https://nirzak-streak-stats.vercel.app/?user=aisyahmnadzri&theme=default_repocard&hide_border=false" alt="Contributions" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aisyahmnadzri&layout=donut&bg_color=171115&title_color=B29388&text_color=F3E9E6&border_color=7B0E25" alt="Top languages" /> |
 
 </div>
 
@@ -149,4 +149,4 @@ Full Stack Developer  ████████████████░░░�
 
 Got an idea, a dataset, or a data problem you're stuck on? I'd love to hear about it. Message me on [LinkedIn](https://linkedin.com/in/aisyahnadzri) or at [aisyahmnadzri@gmail.com](mailto:aisyahmnadzri@gmail.com).
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:0F9D8A&height=100&section=footer" alt="Footer wave" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B0E25,55:6E061B,100:171115&height=100&section=footer" alt="Footer wave" />
