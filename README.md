@@ -1,12 +1,40 @@
-## Hi, I'm Aisyah! 👋 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aisyahnadzri)[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aisyahmnadzri@gmail.com)
-### About Me
-- 👩🏻‍💻 Fresh Graduate (October 2025)  
-- 🎓 Studied Computer Science (Bioinformatics) at Universiti Teknologi Malaysia (UTM)  
-- 🐧 Currently starting a personal challenge **1 Week, 1 Challenge** to consistently learn and build
-### My Current Tech Stack
+<h1 align="center">Hi, I'm Aisyah 👋</h1>
+
+<p align="center">
+  Computer Science (Bioinformatics) graduate building at the intersection of machine learning, biology and software.
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/aisyahnadzri"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:aisyahmnadzri@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+---
+
+## 👩🏻‍💻 About Me
+
+- 🎓 Graduated October 2025 with a degree in Computer Science (Bioinformatics) from **Universiti Teknologi Malaysia (UTM)**
+- 🧬 Interested in applying ML and deep learning to biological problems, such as peptide classification and medical diagnosis
+- 🐧 Running a personal challenge, **1 Week, 1 Challenge**, to keep learning and shipping something new
+- 💬 Happy to chat about bioinformatics, ML and web development. Reach out via LinkedIn or email.
+
+## 🚀 Featured Projects
+
+| Project | What it does | Tech |
+| --- | --- | --- |
+| [**CAPTAIN**](https://github.com/aisyahmnadzri/CAPTAIN) | Classifies microbial peptides and predicts the toxicity of antimicrobial peptides to support drug discovery | Python, Jupyter |
+| [**OvagnosisNet**](https://github.com/aisyahmnadzri/OvagnosisNet) | Ovarian cancer classifier | Python, Jupyter |
+| [**my-kanban-board**](https://github.com/aisyahmnadzri/my-kanban-board) | Kanban board web app | TypeScript |
+| [**Industrial-Training-System**](https://github.com/aisyahmnadzri/Industrial-Training-System) | SQL database logical design covering DDL, DML and data queries | SQL |
+| [**Monkey-and-Fruits-Game**](https://github.com/aisyahmnadzri/Monkey-and-Fruits-Game) | Fruit-catching game built with object-oriented C++ | C++ |
+
+More on my [repositories page](https://github.com/aisyahmnadzri?tab=repositories).
+
+## 🛠️ Tech Stack
+
 <details>
-  <summary>Programming Languages</summary>
-  
+  <summary><b>Programming Languages</b></summary>
+
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?logo=openjdk&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
@@ -18,8 +46,8 @@
 </details>
 
 <details>
-  <summary>Frameworks & Libraries</summary>
-  
+  <summary><b>Frameworks & Libraries</b></summary>
+
   ![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi)
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white)
   ![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB)
@@ -31,8 +59,8 @@
 </details>
 
 <details>
-  <summary>ML/DL/AI</summary>
-  
+  <summary><b>ML / DL / AI</b></summary>
+
   ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white)
   ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?logo=numpy&logoColor=white)
   ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?logo=Matplotlib&logoColor=black)
@@ -46,8 +74,8 @@
 </details>
 
 <details>
-  <summary>Databases & Cloud</summary>
-  
+  <summary><b>Databases & Cloud</b></summary>
+
   ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?logo=mysql&logoColor=white)
   ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?logo=sqlite&logoColor=white)
   ![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)
@@ -59,8 +87,8 @@
 </details>
 
 <details>
-  <summary>Tools</summary>
-  
+  <summary><b>Tools</b></summary>
+
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)
   ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?logo=gitlab&logoColor=white)
   ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?logo=githubactions&logoColor=white)
@@ -71,8 +99,8 @@
 
 </details>
 
-### My GitHub Stats
-| My Contributions | My Top Languages |
-| ------------- | ------------- |
-| ![](https://nirzak-streak-stats.vercel.app/?user=aisyahmnadzri&theme=default_repocard&hide_border=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aisyahmnadzri&layout=donut)|
+## 📊 GitHub Stats
 
+| My Contributions | My Top Languages |
+| :---: | :---: |
+| ![Contributions](https://nirzak-streak-stats.vercel.app/?user=aisyahmnadzri&theme=default_repocard&hide_border=false) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aisyahmnadzri&layout=donut) |
