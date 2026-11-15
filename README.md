@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:171115,55:6E061B,100:7B0E25&height=180&section=header&text=Hi,%20I'm%20Aisyah&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Bioinformatics%20Engineer%20%C2%B7%20Solution%20Architect%20%C2%B7%20Cloud%20Engineer%20%C2%B7%20AI%20Engineer%20%C2%B7%20Data%20Scientist%20%C2%B7%20Data%20Engineer%20%C2%B7%20Data%20Analyst%20%C2%B7%20Backend%20Engineer%20%C2%B7%20Full%20Stack%20Developer&descAlignY=60&descSize=15" alt="Header banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:171115,55:6E061B,100:7B0E25&height=170&section=header&text=Hi,%20I'm%20Aisyah&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=50" alt="Header banner" />
+
+<p><b>Bioinformatics Engineer · Solution Architect · Cloud Engineer · AI Engineer · Data Scientist<br/>Data Engineer · Data Analyst · Backend Engineer · Full Stack Developer</b></p>
 
 <a href="https://github.com/aisyahmnadzri"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=B29388&center=true&vCenter=true&width=620&lines=Building+data+pipelines+that+don't+lose+data+%F0%9F%9B%A0%EF%B8%8F;Teaching+neural+networks+to+read+peptides+%F0%9F%A7%AC;Turning+messy+data+into+live+dashboards+%F0%9F%93%8A;1+Week%2C+1+Challenge%3A+always+building+%F0%9F%9A%80" alt="Typing animation" /></a>
 
