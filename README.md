@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:171115,55:6E061B,100:7B0E25&height=170&section=header&text=Hi,%20I'm%20Aisyah&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=50" alt="Header banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:171115,55:6E061B,100:7B0E25&height=170&section=header&text=Hi,%20I'm%20Aisyah&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=50" alt="Header banner" />
 
 <p><b>Bioinformatics Engineer · Solution Architect · Cloud Engineer · AI Engineer · Data Scientist<br/>Data Engineer · Data Analyst · Backend Engineer · Full Stack Developer</b></p>
 
