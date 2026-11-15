@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F9D8A,100:6C63FF&height=180&section=header&text=Hi,%20I'm%20Aisyah&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Bioinformatics%20%C3%97%20Machine%20Learning%20%C3%97%20Software&descAlignY=58&descSize=16" alt="Header banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F9D8A,100:6C63FF&height=180&section=header&text=Hi,%20I'm%20Aisyah&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Data%20Scientist%20%C3%97%20Bioinformatics%20%C3%97%20AI&descAlignY=58&descSize=16" alt="Header banner" />
 
-<a href="https://github.com/aisyahmnadzri"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=0F9D8A&center=true&vCenter=true&width=560&lines=Teaching+neural+networks+to+read+peptides+%F0%9F%A7%AC;Turning+messy+data+into+useful+models+%F0%9F%93%8A;1+Week%2C+1+Challenge%3A+always+building+%F0%9F%9A%80" alt="Typing animation" /></a>
+<a href="https://github.com/aisyahmnadzri"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=0F9D8A&center=true&vCenter=true&width=620&lines=Building+data+pipelines+that+don't+lose+data+%F0%9F%9B%A0%EF%B8%8F;Teaching+neural+networks+to+read+peptides+%F0%9F%A7%AC;Turning+messy+data+into+live+dashboards+%F0%9F%93%8A;1+Week%2C+1+Challenge%3A+always+building+%F0%9F%9A%80" alt="Typing animation" /></a>
 
 <br/>
 
@@ -15,45 +15,49 @@
 
 ## 🧭 Who I Am
 
-> I'm a **Computer Science (Bioinformatics)** graduate from **Universiti Teknologi Malaysia**, class of October 2025. I like problems where code meets biology: finding signal in peptide sequences, clinical biomarkers and everything in between.
+> I am a **Cloud Engineer cum AI Engineer**. I'm currently upgrading my skillset to cloud technology services and expanding into applications of AI engineering. My foundation is processing data, building ML models, building data pipelines and developing dynamic systems and web applications. My experience is wide because I don't limit my curiosity: I've worked with **biological data, financial data, earth and space data, governance and sovereign data**, and many more.
 
 ```python
 class Aisyah:
-    degree   = "BSc Computer Science (Bioinformatics), UTM"
-    focus    = ["Deep learning for biology", "Data analysis", "Full-stack web"]
+    role      = "AI Engineer @ Pepper Labs-Amazon Web Services (AWS)"
+    degree    = "BSc Computer Science (Bioinformatics), UTM"
+    superpowers = ["AWS", "GCP", "ETL/ELT pipelines", "ML & deep learning", "FastAPI services", "Dashboards"]
     challenge = "1 Week, 1 Challenge"   # learn something, build something, repeat
-    status   = "Open to collaborating and chatting about bio + AI"
 
     def say_hi(self):
-        return "Let's build something! 👋"
+        return "Let's build everything! 👋"
 ```
 
-## 🏆 Projects That Show What I Do
+## 🗺️ My Professional Experience Roadmap
 
-### 🧬 [CAPTAIN](https://github.com/aisyahmnadzri/CAPTAIN)
-Deep learning for **early-stage drug discovery**. It classifies microbial peptides as antimicrobial or not, and predicts the toxicity of designed antimicrobial peptides, using the GRAMPA dataset.
+```mermaid
+flowchart LR
+    A["<b>Secondary School</b><br/>Pure Science Stream<br/><i>Jan 2018 - Dec 2019</i>"] --> B["<b>UTM</b><br/>Computer Science<br/>(Bioinformatics)<br/><i>Oct 2021 - Nov 2025</i>"]
+    B --> C["<b>TM R&D</b><br/>Industrial Training<br/><i>Aug 2024 - Mar 2025</i>"]
+    C --> D["<b>NASA GeneLab</b><br/>Self-Voluntary<br/>Internship<br/><i>Aug 2025 - Nov 2025</i>"]
+    D --> E["<b>AIRBUS-MYSA</b><br/>Full Stack Data<br/>Scientist Protégé<br/><i>Feb 2026 - Jun 2026</i>"]
+    E --> F["<b>Pepper Labs-<br/>Amazon Web Services (AWS)</b><br/>AI Engineer<br/><i>Jun 2026 - Now</i>"]
 
-| Model | Task | Result |
-| --- | --- | --- |
-| Bi-LSTM | Antimicrobial vs. non-antimicrobial | **71%** accuracy |
-| Multimodal FCNN-RNN (one-hot sequences + physicochemical features) | Toxicity prediction | **90%** accuracy |
+    classDef edu fill:#E6F7F4,stroke:#0F9D8A,stroke-width:2px,color:#0B3D36;
+    classDef work fill:#EEEDFF,stroke:#6C63FF,stroke-width:2px,color:#241F6B;
+    classDef now fill:#6C63FF,stroke:#3D36B8,stroke-width:3px,color:#FFFFFF;
+    class A,B edu;
+    class C,D,E work;
+    class F now;
+```
 
-`Python` · `TensorFlow/Keras` · `NumPy` · `Pandas` · `Matplotlib`
+## My Expertise in Percentage
 
-### 🩺 [OvagnosisNet](https://github.com/aisyahmnadzri/OvagnosisNet)
-A deep neural network that classifies **ovarian cancer** as malignant or benign from **49 clinical and blood-based biomarkers** across **349 patients**, benchmarked against logistic regression, SVM and random forest.
-
-`TensorFlow/Keras` · `scikit-learn` · `Seaborn` · `Jupyter / Colab`
-
-### 🛠️ More to explore
-
-| | Project | What it is |
-| :---: | --- | --- |
-| 📋 | [my-kanban-board](https://github.com/aisyahmnadzri/my-kanban-board) | A TypeScript kanban board for organizing tasks |
-| 🗄️ | [Industrial-Training-System](https://github.com/aisyahmnadzri/Industrial-Training-System) | SQL logical database design with DDL, DML and queries |
-| 🐒 | [Monkey-and-Fruits-Game](https://github.com/aisyahmnadzri/Monkey-and-Fruits-Game) | A fruit-catching game built with object-oriented C++ |
-
-<sub>Browse all my work on my <a href="https://github.com/aisyahmnadzri?tab=repositories">repositories page</a>.</sub>
+```text
+Solution Architect    ██████████████░░░░░░  70%
+Cloud Engineer        ██████████████░░░░░░  70%
+AI Engineer           ██████████████████░░  90%
+Data Scientist        ██████████████████░░  90%
+Data Engineer         █████████████████░░░  85%
+Data Analyst          █████████████████░░░  85%
+Backend Engineer      ████████████████░░░░  80%
+Full Stack Developer  ████████████████░░░░  80%
+```
 
 ## 🧰 Toolbox
 
@@ -101,13 +105,16 @@ A deep neural network that classifies **ovarian cancer** as malignant or benign 
 </details>
 
 <details>
-  <summary><b>☁️ Databases & Cloud</b></summary>
+  <summary><b>☁️ Databases, Data & Cloud</b></summary>
   <br/>
 
   ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?logo=mysql&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?logo=postgresql&logoColor=white)
   ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?logo=sqlite&logoColor=white)
   ![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)
   ![Firebase](https://img.shields.io/badge/firebase-a08021?logo=firebase&logoColor=ffcd34)
+  ![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?logo=apacheairflow&logoColor=white)
+  ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white)
   ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white)
   ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?logo=microsoftazure&logoColor=white)
   ![Qdrant](https://img.shields.io/badge/Qdrant-%23FF4F00.svg?logo=qdrant&logoColor=white)
@@ -140,6 +147,6 @@ A deep neural network that classifies **ovarian cancer** as malignant or benign 
 
 ## 🤝 Let's Connect
 
-Got an idea, a dataset, or a bioinformatics problem? I'd love to hear about it. Message me on [LinkedIn](https://linkedin.com/in/aisyahnadzri) or at [aisyahmnadzri@gmail.com](mailto:aisyahmnadzri@gmail.com).
+Got an idea, a dataset, or a data problem you're stuck on? I'd love to hear about it. Message me on [LinkedIn](https://linkedin.com/in/aisyahnadzri) or at [aisyahmnadzri@gmail.com](mailto:aisyahmnadzri@gmail.com).
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:0F9D8A&height=100&section=footer" alt="Footer wave" />
